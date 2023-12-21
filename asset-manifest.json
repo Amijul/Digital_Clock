@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Digital_Clock/static/css/main.d72ecc79.css",
+    "main.js": "/Digital_Clock/static/js/main.86a62dcd.js",
+    "static/media/dark_music.jpg": "/Digital_Clock/static/media/dark_music.1d218e58b3e0116bde48.jpg",
+    "index.html": "/Digital_Clock/index.html",
+    "main.d72ecc79.css.map": "/Digital_Clock/static/css/main.d72ecc79.css.map",
+    "main.86a62dcd.js.map": "/Digital_Clock/static/js/main.86a62dcd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d72ecc79.css",
+    "static/js/main.86a62dcd.js"
+  ]
+}
